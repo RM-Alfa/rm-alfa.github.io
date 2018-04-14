@@ -2,7 +2,7 @@
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>Black Box - Anonymous Feedback</title>
+  <title>DDos Pane by GeT_EnGiNe</title>
       <link rel="stylesheet" href="css/style.css"
 </head>
 <body>
@@ -31,7 +31,7 @@
         }
         
     </script>
-    <h3>BlackBox</h3>
+    <h3>BlackBox [by GeT_EnGiNE] </h3>
     <h4>Анонимные доносы</h4>
     <fieldset>
       <input placeholder="Сайт" type="text" tabindex="4" id="website" required >
